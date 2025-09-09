@@ -1,4 +1,5 @@
 age_quiz
+
 In this code we take the user's age and store it in a variable called 'age' .
 We assumed that the oldest person would be 100 years old, and if the user enters a higher number than 100 years we print, "Sorry, you are dead. "  
 If the user's age is 40 or over we output/print "Your over the hill."
